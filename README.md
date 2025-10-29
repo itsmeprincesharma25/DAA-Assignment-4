@@ -17,7 +17,7 @@ The system identifies strongly connected tasks, forms a Directed Acyclic Graph (
 ---
 
 ## 📂 Project Structure
-
+```bash
 src/
 └─ main/java/
 ├─ graph/core # Graph + WeightedEdge
@@ -29,7 +29,7 @@ src/
 data/
 └─ sample_tasks.json # Input dataset
 
-
+```
 ---
 
 ## 🔧 Technologies Used
