@@ -57,7 +57,7 @@ Execution Commands
 | `topo`        | Topological sorting     | `java -jar target/daa-assignment-4-all.jar topo data/sample_tasks.json`        |
 | `dag-sssp`    | Shortest path in DAG    | `java -jar target/daa-assignment-4-all.jar dag-sssp data/sample_tasks.json`    |
 | `dag-longest` | Critical (Longest) path | `java -jar target/daa-assignment-4-all.jar dag-longest data/sample_tasks.json` |
-```
+
 📊 Results (on sample_tasks.json)
 1) Strongly Connected Components (SCC)
 SCC count = 6
